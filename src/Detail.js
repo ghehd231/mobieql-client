@@ -7,6 +7,7 @@ const Detail = ({
     }
 }) => {
     console.log(movieId);
+    console.log('branch test');
     return <div>Detail</div>
 };
 
